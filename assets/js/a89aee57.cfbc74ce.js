@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkverde_knowledge_base=self.webpackChunkverde_knowledge_base||[]).push([[5833],{9360:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/verde-knowledge-base/blog/tags/facebook","allTagsPath":"/verde-knowledge-base/blog/tags","count":1,"unlisted":false}')}}]);

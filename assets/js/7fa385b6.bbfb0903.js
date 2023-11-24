@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkverde_knowledge_base=self.webpackChunkverde_knowledge_base||[]).push([[8467],{3074:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/verde-knowledge-base/blog/tags/docusaurus","allTagsPath":"/verde-knowledge-base/blog/tags","count":4,"unlisted":false}')}}]);
