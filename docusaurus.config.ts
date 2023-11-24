@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Verde Digital Knowledge Base',
+  title: 'Verde Knowledge Base',
   tagline: 'Simplify your Sustainability Disclosure Reporting',
   favicon: 'img/favicon.ico',
 
@@ -72,7 +72,6 @@ const config: Config = {
           position: 'left',
           label: 'Docs',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://verdedigital.io/',
           label: 'Verde Digital',
@@ -99,10 +98,6 @@ const config: Config = {
               label: 'LinkedIn',
               href: 'https://www.linkedin.com/company/verdedigitalesg/',
             },
-            {
-              label: 'YouTube',
-              href: 'https://www.youtube.com/@Verde_2023',
-            },
           ],
         },
         {
@@ -110,11 +105,7 @@ const config: Config = {
           items: [
             {
               label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://verdedigital.io/blog',
             },
           ],
         },
