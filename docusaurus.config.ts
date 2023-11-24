@@ -63,9 +63,9 @@ const config: Config = {
           position: 'left',
           label: 'Docs',
         },
-        {
-          type: 'docsVersionDropdown',
-        },
+        // {
+        //   type: 'docsVersionDropdown',
+        // },
         {
           href: 'https://verdedigital.io/',
           label: 'Verde Digital',
