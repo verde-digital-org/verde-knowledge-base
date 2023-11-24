@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkverde_knowledge_base=self.webpackChunkverde_knowledge_base||[]).push([[1567],{2187:e=>{e.exports=JSON.parse('{"permalink":"/verde-knowledge-base/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
