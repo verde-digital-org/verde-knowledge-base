@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Verde Knowledge Base',
+  title: 'Verde Knowledge Center',
   tagline: 'Simplify your Sustainability Disclosure Reporting',
   favicon: 'img/favicon.ico',
 
@@ -36,19 +36,10 @@ const config: Config = {
       'classic',
       {
         docs: {
+          routeBasePath: '/',
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://verdedigital.io/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://verdedigital.io/',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -60,7 +51,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Knowledge Base',
+      title: 'Knowledge Center',
       logo: {
         alt: 'verde Logo',
         src: 'img/verde-logo.svg',
@@ -87,7 +78,7 @@ const config: Config = {
           items: [
             {
               label: 'Intro',
-              to: '/docs/intro',
+              to: '/',
             },
           ],
         },
