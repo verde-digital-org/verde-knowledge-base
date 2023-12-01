@@ -56,7 +56,6 @@ const config: Config = {
         alt: 'verde Logo',
         src: 'img/verde-dark.svg',
         srcDark: 'img/verde-light.svg',
-        href: 'https://verdedigital.io'
       },
       items: [
         {
