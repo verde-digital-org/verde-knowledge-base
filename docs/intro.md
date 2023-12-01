@@ -8,11 +8,13 @@ sidebar_label: 'Introduction'
 
 As the global finance landscape transitions towards sustainable investments, financial firms are now faced with rigorous disclosure requirements. This is where Verde Digital comes into play: a holistic, real-time disclosure reporting solution uniquely designed for investment companies to efficiently manage disclosures workflows.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EXTULUjnZGM?si=n6B6g7wSr-hCPWQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Overview
 
 VERDE DIGITAL serves as a state-of-the-art Disclosure Reporting solution tailored to boost transparency, accuracy, and compliance in sustainable investment products. VERDE DIGITAL enables real-time collaboration on disclosure documents, streamline complex approval processes, and extend its capabilities to financial product management, all under one roof.
 
-## How [Verde Digital](https://verdedigital.io) can simplify your disclosure reporting?
+## How can [Verde Digital](https://verdedigital.io) simplify your disclosure reporting?
 
 Verde Digital simplifies your sustainability reporting in four ways:
 

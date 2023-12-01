@@ -76,36 +76,36 @@ const config: Config = {
     },
     footer: {
       style: 'light',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Intro',
-              to: '/',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'LinkedIn',
-              href: 'https://www.linkedin.com/company/verdedigitalesg/',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              href: 'https://verdedigital.io/blog',
-            },
-          ],
-        },
-      ],
-      copyright: `© ${new Date().getFullYear()} Verde Digital.`,
+      // links: [
+      //   {
+      //     title: 'Docs',
+      //     items: [
+      //       {
+      //         label: 'Intro',
+      //         to: '/',
+      //       },
+      //     ],
+      //   },
+      //   {
+      //     title: 'Community',
+      //     items: [
+      //       {
+      //         label: 'LinkedIn',
+      //         href: 'https://www.linkedin.com/company/verdedigitalesg/',
+      //       },
+      //     ],
+      //   },
+      //   {
+      //     title: 'More',
+      //     items: [
+      //       {
+      //         label: 'Blog',
+      //         href: 'https://verdedigital.io/blog',
+      //       },
+      //     ],
+      //   },
+      // ],
+      copyright: `© ${new Date().getFullYear()} Verde Digital. All rights reserved.`,
     },
     prism: {
       theme: prismThemes.github,

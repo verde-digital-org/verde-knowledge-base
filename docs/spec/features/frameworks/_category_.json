@@ -5,7 +5,7 @@
     "type": "generated-index",
     "description": "Learn about the reporting frameworks supported in Verde Digital.",
     "title": "Reporting Frameworks",
-    "slug": "/features/frameworks",
+    "slug": "/spec/features/frameworks",
     "keywords": ["guides"],
     "image": "/img/docusaurus.png"
   }

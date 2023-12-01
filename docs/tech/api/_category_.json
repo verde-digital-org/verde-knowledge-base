@@ -1,0 +1,11 @@
+{
+  "label": "API Docs",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "API Documentation",
+    "slug": "/tech/api",
+    "keywords": ["api", "docs", "documentation", "reference", "reference docs"],
+    "image": "/img/docusaurus.png"
+  }
+}
