@@ -1,12 +1,15 @@
 ---
 slug: /
 sidebar_position: 1
-sidebar_label: 'Introduction 👋'
+sidebar_label: 'Introduction'
 ---
 
-# Introduction 👋
+# Introduction
 
 As the global finance landscape transitions towards sustainable investments, financial firms are now faced with the rigorous disclosure requirements. This is where VERDE DIGITAL comes into play: a holistic, real-time document collaboration platform uniquely designed for investment companies to efficiently manage disclosure documents.
+
+## Overview
+
 VERDE DIGITAL serves as a state-of-the-art Disclosure Reporting solution tailored to boost transparency, accuracy, and compliance in sustainable investment products. VERDE DIGITAL enables real-time collaboration on disclosure documents, streamline complex approval processes, and extend its capabilities to financial product management, all under one roof.
 
 ## Core Objectives
