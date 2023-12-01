@@ -54,7 +54,9 @@ const config: Config = {
       title: 'Knowledge Center',
       logo: {
         alt: 'verde Logo',
-        src: 'img/verde-logo.svg',
+        src: 'img/verde-dark.svg',
+        srcDark: 'img/verde-light.svg',
+        href: 'https://verdedigital.io'
       },
       items: [
         {
@@ -66,11 +68,11 @@ const config: Config = {
         // {
         //   type: 'docsVersionDropdown',
         // },
-        {
-          href: 'https://verdedigital.io/',
-          label: 'Verde Digital',
-          position: 'right',
-        },
+        // {
+        //   href: 'https://verdedigital.io/',
+        //   label: 'Verde Digital',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
@@ -104,7 +106,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Verde Digital.`,
+      copyright: `© ${new Date().getFullYear()} Verde Digital.`,
     },
     prism: {
       theme: prismThemes.github,
