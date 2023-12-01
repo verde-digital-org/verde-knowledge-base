@@ -9,7 +9,7 @@ sidebar_label: 'Getting Started'
 Getting started with Verde Digital is easy. This guide will walk you through the initial steps to help you get started quickly and effectively.
 
 ## Step 1: Sign Up
-Visit [Verde Digital](vededigitla.io) website: Click on 'Sign Up': Locate the 'Sign Up' or 'Get Started' button on the homepage.
+Visit [Verde Digital](https://vededigital.io) website: Click on 'Sign Up': Locate the 'Sign Up' or 'Get Started' button on the homepage.
 Provide Necessary Information: Enter your email address, create a password, and fill in any required information.
 Verify Your Email: Check your email inbox for a verification email. Click on the provided link to confirm your account.
 
