@@ -1,48 +1,28 @@
 ---
 slug: /
 sidebar_position: 1
+sidebar_label: 'Introduction 👋'
 ---
 
-# Intro
+# Introduction 👋
 
-Let's discover **Verde Digital in less than 5 minutes**.
+As the global finance landscape transitions towards sustainable investments, financial firms are now faced with the rigorous disclosure requirements. This is where VERDE DIGITAL comes into play: a holistic, real-time document collaboration platform uniquely designed for investment companies to efficiently manage disclosure documents.
+VERDE DIGITAL serves as a state-of-the-art Disclosure Reporting solution tailored to boost transparency, accuracy, and compliance in sustainable investment products. VERDE DIGITAL enables real-time collaboration on disclosure documents, streamline complex approval processes, and extend its capabilities to financial product management, all under one roof.
 
-## Getting Started
+## Core Objectives
 
-Get started by **creating a new site**.
+### Facilitating Collaboration and Compliance
 
-Or **try Verde Digital immediately** with **[demo.verdedigital.io](https://demo.verdedigital.io)**.
+Enables real-time editing and viewing of disclosure documents among different stakeholders, ensuring documents stay current, accurate, and compliant.
 
-### What you'll need
+### Streamlining Processes
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+With customizable form templates and an integrated approval workflow, the application significantly reduces manual work, speeds up the disclosure process, and minimizes human error.
 
-## Generate a new site
+### Enhancing Transparency
 
-Generate a new Verde Digital site using the **classic template**.
+Offers real-time notifications and a dynamic dashboard for approvers to monitor document status, thereby boosting internal accountability and decision-making.
 
-The classic template will automatically be added to your project after you run the command:
+### Impact on Investment Companies
 
-```bash
-npm init Verde Digital@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Verde Digital.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Verde Digital site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Transforms cumbersome SFDR compliance processes into streamlined, efficient workflows that enhance internal collaboration, operational efficiency, and overall transparency.
