@@ -1,14 +1,16 @@
 ---
 slug: /
 sidebar_position: 1
-sidebar_label: 'Introduction'
+sidebar_label: "Introduction"
 ---
 
 # Introduction
 
 As the global finance landscape transitions towards sustainable investments, financial firms are now faced with rigorous disclosure requirements. This is where Verde Digital comes into play: a holistic, real-time disclosure reporting solution uniquely designed for investment companies to efficiently manage disclosures workflows.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EXTULUjnZGM?si=n6B6g7wSr-hCPWQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="100%" src="https://www.youtube.com/embed/EXTULUjnZGM?si=n6B6g7wSr-hCPWQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Overview
 
