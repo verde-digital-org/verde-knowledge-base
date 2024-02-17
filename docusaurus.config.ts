@@ -67,11 +67,11 @@ const config: Config = {
         // {
         //   type: 'docsVersionDropdown',
         // },
-        // {
-        //   href: 'https://verdedigital.io/',
-        //   label: 'Verde Digital',
-        //   position: 'right',
-        // },
+        {
+          href: 'https://verdedigital.io/',
+          label: 'Verde Digital',
+          position: 'right',
+        },
       ],
     },
     footer: {
